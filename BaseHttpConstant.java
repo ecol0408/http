@@ -33,9 +33,4 @@ public final class BaseHttpConstant {
      * */
     public static final Application APPLICATION= App.app;
 
-    public static final int TIME_OUT_SERVICE_CHECK = 2 * 1000;
-
-    public static final int TIME_OUT_PRINT = 5 * 1000;
-
-
 }
